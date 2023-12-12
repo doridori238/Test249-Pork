@@ -8,12 +8,8 @@ public class Player : MonoBehaviour
     void Start()
     {
 
-        transform.rotation = Quaternion.identity;   
         Debug.Log("ÁøÈ£¾ß ¹Ì¾ÈÇØ");
-        Debug.Log("TEST");
-        Debug.Log("ê´œì°®ì•„ ì•„ë§ˆë„?");
-        transform.position = Vector3.zero;
-        Debug.Log("DDDD");
+     
     }
 
     // Update is called once per frame
