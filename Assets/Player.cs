@@ -10,7 +10,7 @@ public class Player : MonoBehaviour
 
         transform.rotation = Quaternion.identity;   
         Debug.Log("TEST");
-
+        Debug.Log("괜찮아 아마도?");
         transform.position = Vector3.zero;
         Debug.Log("DDDD");
     }
