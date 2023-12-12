@@ -7,9 +7,11 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
         transform.rotation = Quaternion.identity;   
         Debug.Log("TEST");
 
+        transform.position = Vector3.zero;
         Debug.Log("DDDD");
     }
 
