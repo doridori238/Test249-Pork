@@ -8,10 +8,12 @@ public class Player : MonoBehaviour
     void Start()
     {
 
-        transform.rotation = Quaternion.identity;   
-        Debug.Log("��ȣ�� �̾���");
+        transform.rotation = Quaternion.identity;
+        Debug.Log("asdfasdf");
+        Debug.Log("qwer");
+        Debug.Log("ÁøÈ£¾ß ¹Ì¾ÈÇØ");
         Debug.Log("TEST");
-        Debug.Log("괜찮아 아마도?");
+        Debug.Log("ê´œì°®ì•„ ì•„ë§ˆë„?");
         transform.position = Vector3.zero;
         Debug.Log("DDDD");
     }
